@@ -1,2 +1,2 @@
 # The-Concentration-Game
-Developed a modified version of the Concentration game in python 
+Developed a simplified version of the Concentration game in python 
